@@ -1,0 +1,80 @@
+1.1 Langages de programmation
+
+HTML 5 : Le langage HTML (HyperText Markup Language) est un langage permettant d'écrire des documents hypertexte
+pour le web. C'est un langage très simple, basé sur des balises (tag). Les balises servent à mettre en forme le
+texte, à réaliser des liens vers d'autres pages, à insérer des images, etc...
+L’utilisation de la version HTML5 permet l’usage de nouvelles balises différentes des anciennes versions permettant
+d’intégrer des éléments par section (<section> ; <article> ; <nav> ; <aside> ; <header> ; <footer>). L’HTML5
+dispose ainsi d'éléments bien pensés pour un meilleur balisage sémantique de l'information.
+
+CSS 3 : Le CSS pour Cascading Style Sheets, est un langage informatique utilisé sur Internet pour la mise en forme de
+fichiers et de pages HTML. On le traduit en français par feuilles de style en cascade.
+Le CSS3 introduit différents modules tels media queries, de nouveaux sélecteurs d'éléments, les animations
+(keyframes), l’ajout d’effets sur les textes. L’usage du CSS3 nous paraissait ainsi évident.
+
+JAVASCRIPT : Le Javascript est un langage de script léger, orienté objet, principalement connu comme le langage de script
+des pages web. Le standard pour JavaScript est ECMAScript. En 2012, tous les navigateurs modernes
+supportent complètement ECMAScript 5.1. Les anciens navigateurs supportent au minimum ECMAScript 3.
+
+PHP 7 : Le PHP, pour Hypertext Preprocessor, désigne un langage informatique, ou un langage de script, utilisé
+principalement pour la conception de sites web dynamiques. Il s'agit d'un langage de programmation sous
+licence libre qui peut donc être utilisé par tout le monde de façon totalement gratuite.
+Sur un plan technique, le PHP s'utilise la plupart du temps côté serveur. Il génère du code HTML, CSS ou encore
+XHTML, des données (en PNG, JPG, etc.) ou encore des fichiers PDF. Il fait, depuis de nombreuses années, l'objet
+d'un développement spécifique et jouit aujourd'hui une bonne réputation en matière de fiabilité et de
+performances.
+
+
+1.2 Environnement de développement
+
+AWS Cloud9 : AWS Cloud9 vous permet d'exécuter votre environnement de développement sur une instance Amazon EC2
+gérée ou un serveur UNIX existant prenant en charge SSH. Vous pouvez ainsi écrire, exécuter et déboguer des
+applications à l'aide d'un simple navigateur et sans avoir à installer ou à gérer un IDE local.
+Cloud9 permet de collaborer facilement sur du code. il est possible de partager un environnement de
+développement avec une équipe en quelques clics et d’effectuer des programmations en groupe. Lorsqu'ils
+collaborent, les membres de l’équipe peuvent voir les entrées des autres participants du projet en temps réel et
+discuter instantanément les uns avec les autres depuis l'IDE.
+
+
+1.3 Logiciels de retouche 
+
+Lightroom : Adobe Lightroom Classic CC est un logiciel développé par Adobe Systems pour OS X et Microsoft Windows, 
+créé pour assister les photographes professionnels en post-production. Il permet de gérer les flux de productions 
+photographiques de l'importation des données depuis un périphérique jusqu'à la publication.
+
+Photoshop : Photoshop est un logiciel de retouche, de traitement et de dessin assisté par ordinateur.
+Il est principalement utilisé pour le traitement de photographies numériques, mais sert également à 
+la création d’images.
+
+Illustrator : Adobe Illustrator
+Logo
+Image illustrative de l'article Adobe Illustrator
+Développeur	Adobe Systems
+Première version	1987
+Dernière version	CC 2018 (22.1.0.312) (12 mars 2018)
+Écrit en	C++
+Environnements	Mac OS X, Windows
+Type	Dessin vectoriel
+Licence	Propriétaire
+Site web	www.adobe.com [archive]
+modifier Consultez la documentation du modèle
+Adobe Illustrator est un logiciel de création graphique vectorielle. 
+Il offre des outils de dessin vectoriel puissants. Adapté aussi bien à la création de document papier
+qu'à celle d'illustrations pour Internet (logos, affiches, etc.) 
+
+
+
+1.4 Gestion de projet
+
+Smartsheet : Smartsheet est une application logicielle en tant que service (SaaS) pour la collaboration 
+et la gestion du travail. Elle permet d'assigner des tâches, suivre la progression du projet, gérer des calendriers, 
+partager des documents et gérer d'autres travaux.
+
+Gantt : GanttProject est un logiciel libre de gestion de projet écrit en Java, 
+ce qui permet de l'utiliser sur divers système d'exploitation (Windows, Linux, MacOS); 
+il permet d'éditer un diagramme de Gantt.
+
+
+1.4 Logiciel de versionning 
+
+Git : Git est un logiciel de gestion de versions décentralisé.
